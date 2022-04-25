@@ -8,6 +8,7 @@
 2)Banking Domain Project 
 
 -Machine Learning algorithms in predicting which customers will default on their loans based on their financial information and historical data.
+
 -ML model used : Logistic regression, Decision tree, Random Forest classifier, Adaboost, Gradient Boosting 
 
 3) 
